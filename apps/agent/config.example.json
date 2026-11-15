@@ -1,0 +1,7 @@
+{
+  "shop_id": "shop_demo_01",
+  "api_url": "ws://localhost:8000/ws/agent",
+  "auth_token": "placeholder_agent_auth_token",
+  "poll_interval_seconds": 5,
+  "default_printer": "Default"
+}
